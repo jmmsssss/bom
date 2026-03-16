@@ -18,6 +18,7 @@ font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Ox
 <div>
 <h1 id="judul">Copyright 2024</h1>
 <h1 id="judul">All Rights Reserved</h1>
+<h1 id="judul">tapi boong</h1>
 </div>
 </div>
 
